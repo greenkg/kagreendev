@@ -1,16 +1,17 @@
 ---
 title: Spring 2020 Classes
 date: "2020-05-02T23:46:37.121Z"
+description: "Summary of Spring Semester."
 ---
 
 Spring semester has finished, and I'm just waiting on professors to post final grades.
 
 This semester's classes:
-- HIST 2110 US History from xxxx to xxxx
-- HIST 1112 World History from xxxx to xxxx
+- HIST 2110 US History
+- HIST 1112 World History since 1500
 - MATH 2211 Calculus of One Variable
 
-Due to complications getting a transcript a study abroad semester from my undergrad, GSU seriously delayed accepting my application. By the time I heard I was accepted (mid-Dcember 2019), there were only a few weeks before classes started, and no placement tests offered until after the new year, since the University was already shut down for the holidays.
+Due to complications getting a transcript a study abroad semester from my undergrad, GSU seriously delayed accepting my application. By the time I heard I was accepted (mid-December 2019), there were only a few weeks before classes started, and no placement tests offered until after the new year, since the University was already shut down for the holidays.
 
 All that I really missed out on was being able to get a spot in CS 1301 -- GSU's intro to computer science. I managed to take a math placement test a couple days before spring registration closed, allowing me to test into Calc I.
 

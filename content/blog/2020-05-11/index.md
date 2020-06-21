@@ -1,7 +1,7 @@
 ---
 title: What Language
 date: "2020-05-11T22:12:03.284Z"
-description: "What Language"
+description: "What programming language to learn - the ultimate new coder question."
 ---
 
 "What language should I learn?" is a common question among newbie programmers (myself included), which is often met with the answer "it doesn't matter, just pick something and go with it."
