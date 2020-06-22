@@ -1,7 +1,7 @@
 ---
 title: Summer Progress 2020
 date: "2020-06-21T10:49:03.284Z"
-description: "Summer semester 2020"
+description: "Summer semester 2020, 2 weeks in"
 ---
 
 Yep, summer classes are a struggle right now. I tried to sit down and get all the assignments organized in an excel sheet, so I can at least use that as a quick reference when looking to the week / day ahead. Mostly, I'm just trying to successfully submit everything by the day it's due. I normally like to work a little ahead, but haven't been able to get out ahead of this at all.
